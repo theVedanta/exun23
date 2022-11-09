@@ -20,7 +20,6 @@ contract MetaBallMarket is ERC721URIStorage, Ownable {
 
     constructor() ERC721("Metaballism", "MTBP") {
         currentId.increment();
-
         imgs["1"] = "QmPfaKuRcFVbdNWvyS74DXtidkxrFkSYRn2BfaYZtSaFnE";
         imgs["2"] = "QmbpQ96jT1rsPkNy62kVTZo2Vw7WF6UPyLP68DXWeYPXMj";
         imgs["3"] = "QmRfz8k8kpMRq32pPmf1jQJFGFGr2tc9xqfdYA8f7FuXZj";
