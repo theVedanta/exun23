@@ -29,6 +29,14 @@ contract MetaBallMarket is ERC721URIStorage, Ownable {
         imgs["6"] = "QmbpQ96jT1rsPkNy62kVTZo2Vw7WF6UPyLP68DXWeYPXMj";
         imgs["7"] = "QmRfz8k8kpMRq32pPmf1jQJFGFGr2tc9xqfdYA8f7FuXZj";
         imgs["8"] = "QmQrdY86mSVCtmL9zt7pkYm2UsbQQALMfBLS9fwSUm9WPS";
+        imgs["9"] = "QmPfaKuRcFVbdNWvyS74DXtidkxrFkSYRn2BfaYZtSaFnE";
+        imgs["10"] = "QmbpQ96jT1rsPkNy62kVTZo2Vw7WF6UPyLP68DXWeYPXMj";
+        imgs["11"] = "QmRfz8k8kpMRq32pPmf1jQJFGFGr2tc9xqfdYA8f7FuXZj";
+        imgs["12"] = "QmQrdY86mSVCtmL9zt7pkYm2UsbQQALMfBLS9fwSUm9WPS";
+        imgs["13"] = "QmPfaKuRcFVbdNWvyS74DXtidkxrFkSYRn2BfaYZtSaFnE";
+        imgs["14"] = "QmbpQ96jT1rsPkNy62kVTZo2Vw7WF6UPyLP68DXWeYPXMj";
+        imgs["15"] = "QmRfz8k8kpMRq32pPmf1jQJFGFGr2tc9xqfdYA8f7FuXZj";
+        imgs["16"] = "QmQrdY86mSVCtmL9zt7pkYm2UsbQQALMfBLS9fwSUm9WPS";
     }
 
     function mint() public payable {
